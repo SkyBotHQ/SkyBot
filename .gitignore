@@ -1,0 +1,5 @@
+.env
+.direnv/
+.venv/
+bot.ini
+__pycache__
